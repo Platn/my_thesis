@@ -1,1 +1,2 @@
-This is my thesis version 1.0
+This is my thesis version 1.0echo this is a new line
+this is a new line
